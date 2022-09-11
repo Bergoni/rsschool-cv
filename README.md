@@ -1,1 +1,1 @@
-# rsschool-cv
+https://bergoni.github.io/rsschool-cv/cv
